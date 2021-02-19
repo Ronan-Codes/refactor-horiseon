@@ -10,7 +10,7 @@
   * Note Taker is your standard note-taking application that allows to you create, save, and delete notes. To create a note, add a Title and Description. For example: you can create a Task titled Homework, and include a description for the steps of your task at hand. This application utilizes Express.js to retrieve, create, and delete data from a JSON.file. Note Taker is deployed through Heroku.
 
 ## Screenshot
-![](./assets/images/Horiseon-screenshot.png | width=100)
+<img src="./assets/images/Horiseon-screenshot.png" width="500" height="500">
 
 ## Links
 * [Deployed Site URL](https://ronan-codes.github.io/refactor-horiseon/)
