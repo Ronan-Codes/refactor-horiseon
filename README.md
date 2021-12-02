@@ -7,7 +7,7 @@
 
 
 ## Description
-  * This project is a front-end refactoring of a mock marketing agency site. The goal was to make it improve accessibility ,as well as optimize it for search engines by implementing logical structure, semantic HTML elements, alt attributes, and a succinct title.
+  * This project is a front-end refactoring of a mock marketing agency site. The goal was to improve accessibility, as well as optimize it for search engines by implementing logical structure, semantic HTML elements, alt attributes, and a succinct title.
 
 ## Screenshot
 <img src="./assets/images/Horiseon-screenshot.png" width="500">
